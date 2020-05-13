@@ -1,0 +1,8 @@
+<html>
+<head>
+	<title> Mediul din care provine personalitatea </title>
+</head>
+<body>
+
+</body>
+</html>
